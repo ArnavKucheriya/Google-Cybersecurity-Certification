@@ -8,8 +8,7 @@
     src="https://docs.google.com/document/d/e/2PACX-1vQs-35FvJvIegq-nXA7EJ8m4cPTm4XCPYf_fBjWCfA9XBPdTQSPX5iWjubBamGI3XzJZHvU-5SmK9fY/pub?embedded=true" 
     width="794" 
     height="1123" 
-    style="border: none;">
-</iframe>
+    style="border: none;"></iframe>
 
 
 ---
