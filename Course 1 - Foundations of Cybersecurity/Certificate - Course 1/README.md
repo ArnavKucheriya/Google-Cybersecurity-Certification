@@ -1,3 +1,3 @@
-![[Found.Cert.png]]
+![[Coursera_FoundationsOfCybersecurity_Google_Certificate.pdf.jpg]]
 
 ---
